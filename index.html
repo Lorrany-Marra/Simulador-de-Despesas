@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simulador de Despesas 💸</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <h1>Simulador de Despesas 💸</h1>
+    
+    <form id="despesa-form">
+      <input type="text" id="descricao" placeholder="Descrição" required/>
+      <input type="number" id="valor" placeholder="Valor (R$)" required/>
+      <select id="categoria" required>
+        <option value="">Categoria</option>
+        <option value="Alimentação">Alimentação</option>
+        <option value="Transporte">Transporte</option>
+        <option value="Lazer">Lazer</option>
+        <option value="Outros">Outros</option>
+      </select>
+      <button type="submit">Adicionar</button>
+    </form>
+
+    <ul id="lista-despesas"></ul>
+
+    <div class="total">
+      <strong>Total:</strong> R$ <span id="total">0.00</span>
+    </div>
+
+    <button id="resetar">Resetar Tudo</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
