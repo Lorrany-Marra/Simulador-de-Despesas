@@ -35,7 +35,8 @@ Ideal para treinar lógica de programação e conceitos de front-end com JavaScr
 
 📸 Preview
 
-![image](https://github.com/user-attachments/assets/225ac869-2194-43d2-9b2f-33458bcb5fa3)
+![image](https://github.com/user-attachments/assets/3a24e150-c5a5-4269-a19f-0ac273d5ce89)
+
 
 
 
