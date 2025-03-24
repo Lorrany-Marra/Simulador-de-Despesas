@@ -1,6 +1,6 @@
 # 💸 Simulador de Despesas
 
-Um simulador interativo e moderno para gerenciar suas despesas pessoais de forma simples e visual! 
+Um simulador interativo para gerenciar suas despesas pessoais de forma simples e visual! 
 Ideal para treinar lógica de programação e conceitos de front-end com JavaScript, HTML e CSS.
 
 ---
